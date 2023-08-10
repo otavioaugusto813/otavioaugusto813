@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **LPJ**
 
-- 🌱 I’m currently learning **Spark, Airflow**
-
 - 📫 How to reach me **otavioaugusto813@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
