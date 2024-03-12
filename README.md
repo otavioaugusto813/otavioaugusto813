@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Otávio</h1>
-<h3 align="center">A passionate BI Analyst and Data Engineer from Brazil</h3>
+<h3 align="center">A passionate BI Analyst and Analytics Engineer from Brazil</h3>
 
 - 🔭 I’m currently working on **LPJ**
 
