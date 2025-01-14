@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Otávio</h1>
 <h3 align="center">A passionate BI Analyst and Analytics Engineer from Brazil</h3>
 
-- 🔭 I’m currently working on **LPJ**
+- 🔭 I’m currently working at **Casoca**
 
 - 📫 How to reach me **otavioaugusto813@hotmail.com**
 
